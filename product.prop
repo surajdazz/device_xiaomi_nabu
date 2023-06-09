@@ -20,3 +20,6 @@ ro.radio.noril=true
 # WFD
 persist.debug.wfd.enable=1
 persist.sys.wfd.virtual=0
+
+# Fs-verity
+ro.apk_verity.mode=2
