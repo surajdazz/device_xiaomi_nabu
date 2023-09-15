@@ -26,3 +26,6 @@ ro.apk_verity.mode=2
 
 # wm animation
 persist.wm.enable_remote_keyguard_animation=0
+
+#Property to set native recorder's maximum base layer fps
+ro.media.recorder-max-base-layer-fps=60
